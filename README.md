@@ -1,6 +1,9 @@
 # NetflixRemake
 
-# Técnologias Utilizadas:
+# INFORMAÇÕES SOBRE O APP
+- Listagem de filmes 
+
+# TECNOLOGIAS UTILIZADAS
 - Kotlin
 - Consumo de api RestFul
 - MVC
